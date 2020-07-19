@@ -4,6 +4,6 @@ class Home:
         print("Rang De Basanti...!!!")
 
 
-# Create object from Home class
+# Create object from Home class and call the method
 my_home = Home()
 my_home.music()
