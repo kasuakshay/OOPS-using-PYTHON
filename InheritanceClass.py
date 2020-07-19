@@ -1,4 +1,4 @@
-from SecondClass import House
+from MainClass import House
 
 
 # Apartment is a child class of Parent class 'House'
