@@ -4,6 +4,15 @@ class Home:
         print("Rang De Basanti...!!!")
 
 
+# - Single line comment
+
+    '''
+    Multiple 
+    lines 
+    comment
+    '''
+
+
 # Create object from Home class and call the method
 my_home = Home()
 my_home.music()
